@@ -1,2 +1,6 @@
-# konecta_PRUEBA
- 
+CLONAR PROYECTO O DESCARGAR ZIP DE GITHUB
+EJECUTAR composer install en CMD(EN LA RUTA DEL PROYECTO)
+CREAR UNA BASE DE DATOS EN PHPMYADMIN konecta-prueba 
+EJECUTAR php artisan migrate
+EJECUTAR php artisan serve
+
